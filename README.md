@@ -31,13 +31,13 @@
 
 ### other
 
-:slot_machine:## 04_CI_CD 
+## 04_CI_CD :slot_machine:
 - [01_什么是CICD.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/04_CI/CD/01_%E4%BB%80%E4%B9%88%E6%98%AFCICD.md)   
 ## 05_Others
 - [01_博客.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/05_Others/01_%E5%8D%9A%E5%AE%A2.md)
 - [02_测试书籍.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/05_Others/02_%E6%B5%8B%E8%AF%95%E4%B9%A6%E7%B1%8D.md)
 
-:end:## GitBook 链接
+## GitBook 链接  :end:
 
 #todo
 
@@ -57,15 +57,15 @@
  05_Others
 
 
-:+1:## 转载声明
+## 转载声明:+1:
 
 转载本指南，请注明作者与 GitHub 链接，谢谢！
 
-:question:## 有疑问或建议
+## 有疑问或建议:question:
 
 您可以直接提 issue
 
-:link:## 关于贡献
+## 关于贡献:link:
 
 希望有更多的有激情小伙伴，认为对其职业和能力有一定的帮助，**自愿**加入这个项目中来。
 我创建了一个组织
@@ -76,6 +76,6 @@ Enjoy!
 
     学习，难道不是人生最棒的乐趣么？
 
-:copyright:## 协议/License
+## 协议/License :copyright:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
