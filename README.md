@@ -12,7 +12,7 @@
 
 # 大纲
 
- :notebook_with_decorative_cover:## 01_Basic    
+## 01_Basic     :notebook_with_decorative_cover:
 
 - [01_什么是软件测试-01](https://github.com/rikiesxiao/Advanced-Test/blob/master/01_Basic/01_%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95-01.md) 
 - [01_什么是软件测试-02](https://github.com/rikiesxiao/Advanced-Test/blob/master/01_Basic/01_%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95-02.md) 
@@ -20,12 +20,12 @@
 - [03_好的测试用例是什么样的](https://github.com/rikiesxiao/Advanced-Test/blob/master/01_Basic/03_%E5%A5%BD%E7%9A%84%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84.md)
 
 
-:house:## 02_Framework 
+## 02_Framework :house:
 - [01_什么是自动化框架.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/02_Framework/01_%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A1%86%E6%9E%B6.md)
 - [02_好的自动化框架有哪些特性.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/02_Framework/02_%E5%A5%BD%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A1%86%E6%9E%B6%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E6%80%A7.md)
 
-:bicyclist:## 03_Language  
-:snake:### Python
+## 03_Language  :bicyclist:
+### Python
 - [Python-formart用法.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/03_Language/Python/Python-formart%E7%94%A8%E6%B3%95.md)
 ### Java
 
@@ -42,19 +42,6 @@
 #todo
 
 
-
-## Plan
-
-### 已完成：
-
-
-
-### 待完成：
-> 01_Basic     
- 02_Framework 
- 03_Language  
- 04_CI        
- 05_Others
 
 
 ## 转载声明:+1:
