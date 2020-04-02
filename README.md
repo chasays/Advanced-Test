@@ -29,7 +29,20 @@
 - [Python-formart用法.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/03_Language/Python/Python-formart%E7%94%A8%E6%B3%95.md)
 ### Java
 
-### other
+### Linux
+- [Linux常用命令01 cd.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A401%20-%20cd.md)
+- [Linux常用命令02 mv.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A402%20-%20mv.md)
+- [Linux常用命令03 grep.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A403%20-%20grep.md)
+- [Linux常用命令04 ls.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A404%20-%20ls.md)
+- [Linux常用命令05 文本追加到文件中.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A405%20-%20%E6%96%87%E6%9C%AC%E8%BF%BD%E5%8A%A0%E5%88%B0%E6%96%87%E4%BB%B6%E4%B8%AD.md)
+- [Linux常用命令06 ps.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A406%20-%20ps.md)
+- [Linux常用命令07 rm.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A407%20-%20rm.md)
+- [Linux常用命令08 curl.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A408%20-%20curl.md)
+- [Linux常用命令09 sed.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A409%20-%20sed.md)
+- [Linux常用命令10 unzip.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A410%20-%20unzip.md)
+- [Linux常用命令11 xargs.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A411%20-%20xargs.md)
+- [Linux常用命令12 vi.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A412%20-%20vi.md)
+- [Linux常用命令13 echo.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A413%20-%20echo.md)
 
 ## 04_CI_CD :slot_machine:
 - [01_什么是CICD.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/04_CI/CD/01_%E4%BB%80%E4%B9%88%E6%98%AFCICD.md)   
