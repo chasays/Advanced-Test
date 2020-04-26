@@ -13,6 +13,7 @@
 # 大纲
 
 ## 01_Basic     :notebook_with_decorative_cover:
+#todo 怎么了解测试,测试是什么
 
 - [01_什么是软件测试-01](https://github.com/rikiesxiao/Advanced-Test/blob/master/01_Basic/01_%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95-01.md) 
 - [01_什么是软件测试-02](https://github.com/rikiesxiao/Advanced-Test/blob/master/01_Basic/01_%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95-02.md) 
@@ -21,10 +22,12 @@
 
 
 ## 02_Framework :house:
+#todo 按应用场景分
 - [01_什么是自动化框架.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/02_Framework/01_%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A1%86%E6%9E%B6.md)
 - [02_好的自动化框架有哪些特性.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/02_Framework/02_%E5%A5%BD%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A1%86%E6%9E%B6%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E6%80%A7.md)
 
 ## 03_Language  :bicyclist:
+#todo 开发、sql、linux等
 
 ### Python
 
