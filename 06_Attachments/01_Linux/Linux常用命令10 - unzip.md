@@ -3,7 +3,7 @@
 
 接下来，我将解释如何使用 `unzip` 命令通过命令行解压缩 Linux 系统中的文件。
 还有与之对应就是 zip。
-![0FPVdt](https://gitee.com/stormzhang/mdPic/raw/master/uPic/0FPVdt.png)
+![0FPVdt](https://gitee.com/chasays/mdPic/raw/master/uPic/0FPVdt.png)
 
 ## 安装unzip
 在大多数 Linux 发行版中，unzip 不是默认安装的，但是您可以使用您的发行版的包管理器轻松地安装它。
@@ -165,4 +165,4 @@ Unzip 是一个实用工具，可以帮助您列出、测试和解压缩 `ZIP` �
 
 要在 Linux 系统上创建 `ZIP` 归档文件，您需要使用 `ZIP` 命令。
 
-![ZCoBLj](https://gitee.com/stormzhang/mdPic/raw/master/uPic/ZCoBLj.png)
+![ZCoBLj](https://gitee.com/chasays/mdPic/raw/master/uPic/ZCoBLj.png)

@@ -1,6 +1,6 @@
 vim 是许多在命令行上 Linux 下首选文本编辑器。 与其他编辑器不同，vim 有几种操作模式，这对于新用户来说有点吓人。
 
-![F8J93X](https://gitee.com/stormzhang/mdPic/raw/master/uPic/F8J93X.png)
+![F8J93X](https://gitee.com/chasays/mdPic/raw/master/uPic/F8J93X.png)
 它的前身 vi 预装在 macOS 和几乎所有的 Linux 发行版上。 了解 vim 的基本知识将帮助您在遇到您最喜欢的编辑器不可用的情况时。
 
 
@@ -12,7 +12,7 @@ vim 是许多在命令行上 Linux 下首选文本编辑器。 与其他编辑�
 
 
 为了能够输入文本，您需要进入插入模式按下 `i` 键。 这种模式允许您以在常规文本编辑器中相同的方式插入和删除字符。左下角会提示一个 `insert`。
-![kBrTGY](https://gitee.com/stormzhang/mdPic/raw/master/uPic/kBrTGY.png)
+![kBrTGY](https://gitee.com/chasays/mdPic/raw/master/uPic/kBrTGY.png)
 
 要从任何其他模式回到正常模式，只需按 `Esc` 键。
 
@@ -51,13 +51,13 @@ vim file.text
 2. :wq
 3.  按下 Enter
 
-![IXQ5nI](https://gitee.com/stormzhang/mdPic/raw/master/uPic/IXQ5nI.png)
+![IXQ5nI](https://gitee.com/chasays/mdPic/raw/master/uPic/IXQ5nI.png)
 
 另一个保存文件并退出 vim 的命令是:x。
 
 这两个命令之间的区别在于:x 只在有未保存的更改时才将缓冲区写入文件，而:wq 总是将缓冲区写入文件并更新文件修改时间。
 
-![H0QQTG](https://gitee.com/stormzhang/mdPic/raw/master/uPic/H0QQTG.png)
+![H0QQTG](https://gitee.com/chasays/mdPic/raw/master/uPic/H0QQTG.png)
 
 ## 退出不保存文件
 
@@ -67,11 +67,11 @@ vim file.text
 2. :q!
 3.  按下 Enter
 
-![RFMvov](https://gitee.com/stormzhang/mdPic/raw/master/uPic/RFMvov.png)
+![RFMvov](https://gitee.com/chasays/mdPic/raw/master/uPic/RFMvov.png)
 
 ## 小结
 
 简单的展示了如何在 vim 中保存文件并退出编辑器。 如果您是 vim 的新手，推荐一个在线的体验 vim编辑。
 >https://www.openvim.com/
 
-![N4R1hX](https://gitee.com/stormzhang/mdPic/raw/master/uPic/N4R1hX.png)
+![N4R1hX](https://gitee.com/chasays/mdPic/raw/master/uPic/N4R1hX.png)

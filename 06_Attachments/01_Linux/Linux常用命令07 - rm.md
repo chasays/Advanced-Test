@@ -9,7 +9,7 @@
 ```
 rm [OPTIONS]... FILE...
 ```
-![H9a2mr](https://gitee.com/stormzhang/mdPic/raw/master/uPic/H9a2mr.png)
+![H9a2mr](https://gitee.com/chasays/mdPic/raw/master/uPic/H9a2mr.png)
 
 默认情况下，当在没有任何选项的情况下执行时，rm 不删除目录，也不提示用户是否继续删除给定的文件。
 
@@ -42,7 +42,7 @@ rm -f filename
 rm -v filename
  'filename'
 ```
-![Hg72Uy](https://gitee.com/stormzhang/mdPic/raw/master/uPic/Hg72Uy.png)
+![Hg72Uy](https://gitee.com/chasays/mdPic/raw/master/uPic/Hg72Uy.png)
 ##  删除多个文件
 与 unlink 命令不同，rm 允许您一次删除多个文件。 为此，将文件名作为空格分隔的参数传递:
 ```
@@ -88,7 +88,7 @@ rm: remove regular empty file 'filename2'?
 ```
 rm -i filename1 filename2 filename3 filename4
 ```
-![dSjnFp](https://gitee.com/stormzhang/mdPic/raw/master/uPic/dSjnFp.png)
+![dSjnFp](https://gitee.com/chasays/mdPic/raw/master/uPic/dSjnFp.png)
 您将被要求确认删除所有给定的文件和目录:
 ```
 rm -rf

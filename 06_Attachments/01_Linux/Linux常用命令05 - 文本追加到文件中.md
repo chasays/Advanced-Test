@@ -14,20 +14,20 @@
 ```
 echo "this is a new line" >> file.txt
 ```
-![RRU1LT](https://gitee.com/stormzhang/mdPic/raw/master/uPic/RRU1LT.png)
+![RRU1LT](https://gitee.com/chasays/mdPic/raw/master/uPic/RRU1LT.png)
 当与 `-e` 选项一起使用时，`echo `命令解释反斜杠转义字符，如换行 `\n`:
 ```
 echo -e "this is a new line \nthis is another new line" >> file.txt
 ```
 
-![TFLfuC](https://gitee.com/stormzhang/mdPic/raw/master/uPic/TFLfuC.png)
+![TFLfuC](https://gitee.com/chasays/mdPic/raw/master/uPic/TFLfuC.png)
 
 如果你想生成更复杂的输出，可以使用 `printf` 命令来指定输出的格式:
 
 ```
 printf "Hello, I'm %s.\n" $USER >> file.txt
 ```
-![jogmpf](https://gitee.com/stormzhang/mdPic/raw/master/uPic/jogmpf.png)
+![jogmpf](https://gitee.com/chasays/mdPic/raw/master/uPic/jogmpf.png)
 
 另一种将文本附加到文件的方法是使用 Here 文档(Heredoc)。 它是一种重定向类型，允许您将多行输入传递给命令。
 
@@ -46,7 +46,7 @@ date +"Year: %Y, Month: %m, Day: %d" >> file.txt
 
 ```
 
-![MDiTEX](https://gitee.com/stormzhang/mdPic/raw/master/uPic/MDiTEX.png)
+![MDiTEX](https://gitee.com/chasays/mdPic/raw/master/uPic/MDiTEX.png)
 当使用重定向附加到文件时，请注意不要使用操作符覆盖重要的现有文件。
 ## 方法附加到文件中tee Command 命令
 
@@ -57,7 +57,7 @@ date +"Year: %Y, Month: %m, Day: %d" >> file.txt
 ```
 echo "this is a new line"  | tee -a file.txt
 ```
-![J3UYRm](https://gitee.com/stormzhang/mdPic/raw/master/uPic/J3UYRm.png)
+![J3UYRm](https://gitee.com/chasays/mdPic/raw/master/uPic/J3UYRm.png)
 
 
 如果您不希望 `tee` 写入标准输出，可以将其重定向到 /dev/null:
@@ -72,7 +72,7 @@ echo "this is a new line"  | tee -a file.txt >/dev/null
 ```
 echo "this is a new line" | sudo tee -a file.txt
 ```
-![VzQBPs](https://gitee.com/stormzhang/mdPic/raw/master/uPic/VzQBPs.png)
+![VzQBPs](https://gitee.com/chasays/mdPic/raw/master/uPic/VzQBPs.png)
 
 tee 接收 echo 命令的输出，提高 sudo 权限，并写入文件。
 
@@ -81,7 +81,7 @@ tee 接收 echo 命令的输出，提高 sudo 权限，并写入文件。
 ```
 echo "this is a new line"  | tee -a file1.txt file2.txt file3.txt
 ```
-![EFeqzz](https://gitee.com/stormzhang/mdPic/raw/master/uPic/EFeqzz.png)
+![EFeqzz](https://gitee.com/chasays/mdPic/raw/master/uPic/EFeqzz.png)
 ## 小结
 
 在 Linux 中，要将文本附加到文件中，可以使用重定向操作符「>」或 tee 命令。

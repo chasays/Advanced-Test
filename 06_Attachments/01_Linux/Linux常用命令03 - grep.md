@@ -1,11 +1,11 @@
 
 grep 命令代表“全局正则表达式 print” ，它是 Linux 中最强大和最常用的命令之一。
 
-![1mxfNj](https://gitee.com/stormzhang/mdPic/raw/master/uPic/1mxfNj.png)
+![1mxfNj](https://gitee.com/chasays/mdPic/raw/master/uPic/1mxfNj.png)
 grep 在一个或多个输入文件中搜索与给定模式匹配的行，并将每个匹配行写入标准输出。 如果没有指定文件，`grep` 将从标准输入读取，这通常是另一个命令的输出。
 
 在本文中，我们将通过实例和对最常见的 GNU `grep` 选项的详细说明，向您展示如何使用 `grep` 命令。
-![Bm1gUK](https://gitee.com/stormzhang/mdPic/raw/master/uPic/Bm1gUK.png)
+![Bm1gUK](https://gitee.com/chasays/mdPic/raw/master/uPic/Bm1gUK.png)
 
 
 ## `grep`  命令语法
@@ -292,7 +292,7 @@ grep -E 'fatal|error|critical' /var/log/nginx/error.log
 ```
 grep -B 5 root /etc/passwd
 ```
-![zwEsXm](https://gitee.com/stormzhang/mdPic/raw/master/uPic/zwEsXm.png)
+![zwEsXm](https://gitee.com/chasays/mdPic/raw/master/uPic/zwEsXm.png)
 ##  匹配后打印行
 
 若要在匹配行之后打印特定行数，请使用 -a (或 --after-context)选项。
@@ -302,7 +302,7 @@ grep -B 5 root /etc/passwd
 ```
 grep -A 5 root /etc/passwd
 ```
-![hnWXx0](https://gitee.com/stormzhang/mdPic/raw/master/uPic/hnWXx0.png)
+![hnWXx0](https://gitee.com/chasays/mdPic/raw/master/uPic/hnWXx0.png)
 ## 小结
 
 grep 命令允许您在文件内搜索模式。 如果找到匹配项，`grep` 将打印包含指定模式的行。

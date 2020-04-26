@@ -3,14 +3,14 @@
 
 # 帮助
 用 `man` 命令可以看到其帮助信息。我本地是macOS看到是下面这个，只是提示了是内建builtin命令。
-![A1owWD](https://gitee.com/stormzhang/mdPic/raw/master/uPic/A1owWD.png)
+![A1owWD](https://gitee.com/chasays/mdPic/raw/master/uPic/A1owWD.png)
 
 `cd `是一个 shell 内置的，它的行为可能因 shell 而略有不同。 它使用 shell 环境变量来确定执行所需的信息。
 
 
 
 这个是centos系统看到的man信息。
-![hcZ3cI](https://gitee.com/stormzhang/mdPic/raw/master/uPic/hcZ3cI.png)
+![hcZ3cI](https://gitee.com/chasays/mdPic/raw/master/uPic/hcZ3cI.png)
 
 # 语法
 
@@ -39,7 +39,7 @@ cd [OPTIONS] directory
 
 默认情况下，当您登录到 Linux 系统时，您当前的工作目录文件夹设置为您的主目录。 假设 Downloads 目录存在于您的主目录中，您可以通过使用该目录的相对路径导航到它:
 
-![1fFrei](https://gitee.com/stormzhang/mdPic/raw/master/uPic/1fFrei.png)
+![1fFrei](https://gitee.com/chasays/mdPic/raw/master/uPic/1fFrei.png)
 
 
 比如
@@ -102,7 +102,7 @@ $ cd ~
 $ cd Creative\ Cloud\ Files
 ```
 Note: 也可以敲完第一个单词直接` tab` 键，自动补全。
-![bctyuQ](https://gitee.com/stormzhang/mdPic/raw/master/uPic/bctyuQ.png)
+![bctyuQ](https://gitee.com/chasays/mdPic/raw/master/uPic/bctyuQ.png)
 # 小结
 
 现在，您应该已经很好地理解了什么是当前的工作目录`/`目录，以及如何使用` cd` 命令切换到不同的目录。

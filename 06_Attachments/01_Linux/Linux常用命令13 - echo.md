@@ -9,7 +9,7 @@
 
 还有一个独立的/usr/bin/echo 实用程序，但通常会优先使用 shell 内置版本。 我们将介绍 Bash 内置版本的 echo。
 
-![wNoubz](https://gitee.com/stormzhang/mdPic/raw/master/uPic/wNoubz.png)
+![wNoubz](https://gitee.com/chasays/mdPic/raw/master/uPic/wNoubz.png)
 
 `echo` 命令的语法如下:
 ```
@@ -115,7 +115,7 @@ Displaying variables
 echo $USER
 admin
 ```
-![ZR4XQn](https://gitee.com/stormzhang/mdPic/raw/master/uPic/ZR4XQn.png)
+![ZR4XQn](https://gitee.com/chasays/mdPic/raw/master/uPic/ZR4XQn.png)
 
 $USER 是一个保存用户名的 shell 变量。
 
@@ -128,7 +128,7 @@ $USER 是一个保存用户名的 shell 变量。
 echo "The date is: $(date +%D)"
 The date is: 04/01/20
 ```
-![gVMB8U](https://gitee.com/stormzhang/mdPic/raw/master/uPic/gVMB8U.png)
+![gVMB8U](https://gitee.com/chasays/mdPic/raw/master/uPic/gVMB8U.png)
 
 以彩色显示
 

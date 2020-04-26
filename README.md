@@ -56,7 +56,9 @@
 - [01_博客.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/05_Others/01_%E5%8D%9A%E5%AE%A2.md)
 - [02_测试书籍.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/05_Others/02_%E6%B5%8B%E8%AF%95%E4%B9%A6%E7%B1%8D.md)
 
-- [什么是Docker](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/02_Docker/Docker%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%A5%BD%E5%A4%84.md)
+- [03_持续提升]可以关注我的微信公众号「chasays」，不定期分享干货。
+![LP87w0](https://gitee.com/chasays/mdPic/raw/master/uPic/LP87w0.png)
+
 ## GitBook 链接  :end:
 
 #todo

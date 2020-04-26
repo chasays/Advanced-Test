@@ -10,7 +10,7 @@
 
 
 要检查 `curl` 包是否已安装在系统上，请打开控制台，键入 curl，然后按回车键。 如果您安装了 curl，系统将打印 curl: 尝试‘curl --help’或‘ curl --manual’获取更多信息。 否则，您将看到类似 curl 命令的内容没有被找到。
-![dsjqSu](https://gitee.com/stormzhang/mdPic/raw/master/uPic/dsjqSu.png)
+![dsjqSu](https://gitee.com/chasays/mdPic/raw/master/uPic/dsjqSu.png)
 
 如果没有安装 curl，您可以使用发行版的包管理器轻松地安装它。
 
@@ -36,7 +36,7 @@ curl [options] [URL...]
 ```
 curl chasays.github.io
 ```
-![eqklbA](https://gitee.com/stormzhang/mdPic/raw/master/uPic/eqklbA.png)
+![eqklbA](https://gitee.com/chasays/mdPic/raw/master/uPic/eqklbA.png)
 
 该命令将在您的终端窗口中打印示例.com 主页的源代码。
 
@@ -57,7 +57,7 @@ curl -o vue-v2.6.10.js https://cdn.jsdelivr.net/npm/vue/dist/vue.js
 curl -O https://cdn.jsdelivr.net/npm/vue/dist/vue.js
 ```
 
-![cbHQFb](https://gitee.com/stormzhang/mdPic/raw/master/uPic/cbHQFb.png)
+![cbHQFb](https://gitee.com/chasays/mdPic/raw/master/uPic/cbHQFb.png)
 
 ##  下载多个文件
 
@@ -83,7 +83,7 @@ curl -O https://updates.cdn-apple.com/2020/macos/061-44388-20200128-3badc52c-639
 ```
 curl -C - -O https://updates.cdn-apple.com/2020/macos/061-44388-20200128-3badc52c-6391-412c-86d9-fc2aaf9514e0/macOSUpd10.15.3.dmg
 ```
-![AFXvTE](https://gitee.com/stormzhang/mdPic/raw/master/uPic/AFXvTE.png)
+![AFXvTE](https://gitee.com/chasays/mdPic/raw/master/uPic/AFXvTE.png)
 
 ##  获取 URL 的 HTTP 头
 
@@ -95,14 +95,14 @@ Http 头是冒号分隔的键值对，包含用户代理、内容类型和编码
 curl -I --http2 https://www.apple.com/
 ```
 
-![b8dqcw](https://gitee.com/stormzhang/mdPic/raw/master/uPic/b8dqcw.png)
+![b8dqcw](https://gitee.com/chasays/mdPic/raw/master/uPic/b8dqcw.png)
 ## 测试网站是否支援 http/2
 
 要检查某个特定的 URL 是否支持新的 HTTP/2协议，请使用-i 和 --http2选项获取 HTTP header:
 ```
 curl -I --http2 -s https://apple.com/ | grep HTTP
 ```
-![9JSwNl](https://gitee.com/stormzhang/mdPic/raw/master/uPic/9JSwNl.png)
+![9JSwNl](https://gitee.com/chasays/mdPic/raw/master/uPic/9JSwNl.png)
 S 选项告诉 curl 以静音(quiet)运行，并隐藏进度表和错误消息。
 
 
@@ -129,7 +129,7 @@ curl baidu.com
 ``
 curl -L baidu.com
 ``
-![nITkGy](https://gitee.com/stormzhang/mdPic/raw/master/uPic/nITkGy.png)
+![nITkGy](https://gitee.com/chasays/mdPic/raw/master/uPic/nITkGy.png)
 
 ##  更改用户代理
 

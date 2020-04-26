@@ -44,14 +44,14 @@ sed -i '' 's/foo/linux/' file.txt
 
 linux /bin/bash Ubuntu foobar 456
 ```
-![I1CZtI](https://gitee.com/stormzhang/mdPic/raw/master/uPic/I1CZtI.png)
+![I1CZtI](https://gitee.com/chasays/mdPic/raw/master/uPic/I1CZtI.png)
 使用全局替换标志 sed 替换所有出现的搜索模式:
 ```
 sed -i '' 's/foo/linux/g' file.txt
 123 Foo linux linux
 linux /bin/bash Ubuntu linuxbar 456
 ```
-![XSP3mF](https://gitee.com/stormzhang/mdPic/raw/master/uPic/XSP3mF.png)
+![XSP3mF](https://gitee.com/chasays/mdPic/raw/master/uPic/XSP3mF.png)
 
 
 正如您可能已经注意到的，在前面的示例中，foobar 字符串中的子字符串 foo 也被替换了。 如果这不是想要的行为，请在搜索字符串的两端使用单词边界表达式(\b)。 这将确保部分词不匹配。
@@ -61,7 +61,7 @@ sed -i  's/\bfoo\b/linux/g' file.txt
 linux /bin/bash Ubuntu foobar 456
 ```
 
-![lCjovE](https://gitee.com/stormzhang/mdPic/raw/master/uPic/lCjovE.png)
+![lCjovE](https://gitee.com/chasays/mdPic/raw/master/uPic/lCjovE.png)
 
 若要使模式匹配不区分大小写，请使用 I 标志。 在下面的例子中，我同时使用了 g 和 I 标志:
 ```

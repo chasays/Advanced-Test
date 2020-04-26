@@ -125,7 +125,7 @@ ps -efo pid,comm
 ps auxo pid,comm
 ```
 
-![2OZIr6](https://gitee.com/stormzhang/mdPic/raw/master/uPic/2OZIr6.png)
+![2OZIr6](https://gitee.com/chasays/mdPic/raw/master/uPic/2OZIr6.png)
 
 ## 使用其他命令
 
@@ -135,16 +135,16 @@ ps auxo pid,comm
 ```
 ps -ef | less
 ```
-![4Z1rEY](https://gitee.com/stormzhang/mdPic/raw/master/uPic/4Z1rEY.png)
+![4Z1rEY](https://gitee.com/chasays/mdPic/raw/master/uPic/4Z1rEY.png)
 
 `ps` 命令的输出可以用 grep 进行过滤。 例如，为了只显示属于 root 用户的进程，你可以运行:
 ```
 ps -ef | grep root
 ```
-![3p1Yi8](https://gitee.com/stormzhang/mdPic/raw/master/uPic/3p1Yi8.png)
+![3p1Yi8](https://gitee.com/chasays/mdPic/raw/master/uPic/3p1Yi8.png)
 
 ## 小结
 `ps` 命令是解决 Linux 系统问题时最常用的命令之一。 它有许多选项，但通常大多数用户使用 ps aux 或 ps-ef 来收集有关正在运行的进程的信息。
 
 有关 `ps` 的详细信息，请在终端中键入 `man ps`。
-![kXnTbz](https://gitee.com/stormzhang/mdPic/raw/master/uPic/kXnTbz.png)
+![kXnTbz](https://gitee.com/chasays/mdPic/raw/master/uPic/kXnTbz.png)

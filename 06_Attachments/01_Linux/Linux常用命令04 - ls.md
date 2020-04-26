@@ -9,7 +9,7 @@
 ```
 ls [OPTIONS] [FILES]
 ```
-![2b98f2](https://gitee.com/stormzhang/mdPic/raw/master/uPic/2b98f2.png)
+![2b98f2](https://gitee.com/chasays/mdPic/raw/master/uPic/2b98f2.png)
 当没有选项和参数时，ls 会显示当前工作目录中所有文件的名称列表:
 ```
 ls
@@ -57,7 +57,7 @@ ls: cannot open directory '/root': Permission denied
 ls -l /etc/hosts
 -rw-r--r--  1 root  wheel  372  3  7 23:56 /etc/hosts
 ```
-![fKIfjQ](https://gitee.com/stormzhang/mdPic/raw/master/uPic/fKIfjQ.png)
+![fKIfjQ](https://gitee.com/chasays/mdPic/raw/master/uPic/fKIfjQ.png)
 让我们解释一下输出中最重要的列。
 
 
@@ -122,7 +122,7 @@ drwx------  2 linuxize  linuxize  4096 Mar  4  2018 .ssh
 ```
 ls -ltr /var
 ```
-![UCDB6B](https://gitee.com/stormzhang/mdPic/raw/master/uPic/UCDB6B.png)
+![UCDB6B](https://gitee.com/chasays/mdPic/raw/master/uPic/UCDB6B.png)
 值得一提的是，ls 命令没有显示目录内容占用的总空间。 使用 du 命令获取目录的大小。
 
 ##  递归列出子目录
@@ -131,7 +131,7 @@ R 选项告诉 ls 命令递归地显示子目录的内容:
 ```
 ls -R
 ```
-![lONFXk](https://gitee.com/stormzhang/mdPic/raw/master/uPic/lONFXk.png)
+![lONFXk](https://gitee.com/chasays/mdPic/raw/master/uPic/lONFXk.png)
 
 ## 小结
 

@@ -13,13 +13,13 @@
 pip install jupyter
 ```
 Jupyter notebook大概依赖30~40个依赖包。
-![部分依赖包](https://gitee.com/stormzhang/mdPic/raw/master/uPic/3XLaIQ.png)
+![部分依赖包](https://gitee.com/chasays/mdPic/raw/master/uPic/3XLaIQ.png)
 
 ## 运行
 安装完之后在任意目录执行。命令`jupyter notebook`，然后就会在浏览器打开这个链接。
-![运行图](https://gitee.com/stormzhang/mdPic/raw/master/uPic/EPIjPE.png)
+![运行图](https://gitee.com/chasays/mdPic/raw/master/uPic/EPIjPE.png)
 
 打开连接之后可以看到效果图如下。
-![效果](https://gitee.com/stormzhang/mdPic/raw/master/uPic/G6dN3b.png)
+![效果](https://gitee.com/chasays/mdPic/raw/master/uPic/G6dN3b.png)
 
 那么可以看到执行后的效果里面，就是当前运行目录里面的所有内容，如果当前目录有Python等其他的可执行文件，那么就可以直接执行。速度非常的快。

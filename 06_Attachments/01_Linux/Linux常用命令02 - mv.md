@@ -59,7 +59,7 @@ mv *.pdf ~/Documents
 ```
 type mv 
 ```
-![aF0FBl](https://gitee.com/stormzhang/mdPic/raw/master/uPic/aF0FBl.png)
+![aF0FBl](https://gitee.com/chasays/mdPic/raw/master/uPic/aF0FBl.png)
 
 如果 mv 是别名，输出结果如下:
 ```
@@ -134,6 +134,6 @@ renamed 'file1' -> '/tmp/file1'
 
 `mv` 命令用于移动和重命名文件和目录。
 有关 mv 命令的详细信息，请查看手册页或在终端中键入` man mv`。
-![zquN8k](https://gitee.com/stormzhang/mdPic/raw/master/uPic/zquN8k.png)
+![zquN8k](https://gitee.com/chasays/mdPic/raw/master/uPic/zquN8k.png)
 被命令行吓到的新 Linux 用户可以使用 GUI 文件管理器来移动他们的文件。
 
