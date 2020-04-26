@@ -44,10 +44,12 @@
 
 作为计算机行业，`这个是必要技能`。如果说Windows系统是一个小玩具，那么Linux`绝对`是一个挖掘机。应该有人反对，毕竟Linux打游戏还是比不过Windows的。
 
-重点推荐2个教程，
-- [Runoob的Linux基础](https://www.runoob.com/linux/linux-tutorial.html)
+重点推荐2个教程.
+1. [Runoob的Linux基础](https://www.runoob.com/linux/linux-tutorial.html)
+
 学完上面这个，基本上对于Linux命令来说就没有太大的问题，主要就是应用。这个就是在工作和实战过程中去实际操练，以后就能慢慢的信手拈来。
-- [Linux 13个常用命令](https://github.com/chasays/Advanced-Test/tree/master/06_Attachments/01_Linux)
+
+2. [Linux 13个常用命令](https://github.com/chasays/Advanced-Test/tree/master/06_Attachments/01_Linux)
 
 ## 04_CI_CD :slot_machine:
 - [01_什么是CICD.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/04_CI/CD/01_%E4%BB%80%E4%B9%88%E6%98%AFCICD.md)   
