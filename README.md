@@ -25,14 +25,29 @@
 - [02_好的自动化框架有哪些特性.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/02_Framework/02_%E5%A5%BD%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A1%86%E6%9E%B6%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E6%80%A7.md)
 
 ## 03_Language  :bicyclist:
+
 ### Python
 - [Python-formart用法.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/03_Language/Python/Python-formart%E7%94%A8%E6%B3%95.md)
-### Java
+- 
+Note: 嗯，学习Python是一个渐进的过程，不是一蹴而就的，不要一口吃成一个大胖子。对于市面上很多教材，像什么10天学会Python、学会英语一样一个道理，这就是一个噱头，其实都是教你一个怎么入门的一个过程或者一个学习的方法，其实自己要掌握更深的，跟广的东西去精通，那还是要通过自己去反复的练习。我说这里推荐两个资料。
+1. 我建议先看[「简明Python」](https://learnku.com/docs/byte-of-python/2018)
+2. 完了可以跟着这个repo-[「show-me-the-code」](https://github.com/Yixiaohan/show-me-the-code)一起学习
 
-### Linux
+
+### Java
+首先说一下为什么要学习Java？Java工程师也是市场需求最大的软件工程师，主要是针对一线大厂BATTH，需要Java开发技能，所以学会Java也是非常关键的。目前我的Java技能也是很表面的一些东西，这里就推荐我正在学习的，我正在看了一些教程和一些资料。学习方法不是很多为主，主要是找到一个方法，然后坚持下去。也是推荐2个课程
+1. [这是专门针对小白的零基础Java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
+2. [互联网 Java 工程师进阶知识完全扫盲](https://doocs.github.io/advanced-java/#/)
+
+### Linux 
+作为计算机行业，这个是必要技能。其他系统是一个小玩具，那么Linux绝对是一个挖掘机。
+
 - [Linux常用命令01 cd.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A401%20-%20cd.md)
+
 - [Linux常用命令02 mv.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A402%20-%20mv.md)
+
 - [Linux常用命令03 grep.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A403%20-%20grep.md)
+
 - [Linux常用命令04 ls.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A404%20-%20ls.md)
 - [Linux常用命令05 文本追加到文件中.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A405%20-%20%E6%96%87%E6%9C%AC%E8%BF%BD%E5%8A%A0%E5%88%B0%E6%96%87%E4%BB%B6%E4%B8%AD.md)
 - [Linux常用命令06 ps.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A406%20-%20ps.md)
@@ -52,29 +67,8 @@
 
 ## GitBook 链接  :end:
 
-#todo
+# todo
 
-
-
-
-## 转载声明:+1:
-
-转载本指南，请注明作者与 GitHub 链接，谢谢！
-
-## 有疑问或建议:question:
-
-您可以直接提 issue
-
-## 关于贡献:link:
-
-希望有更多的有激情小伙伴，认为对其职业和能力有一定的帮助，**自愿**加入这个项目中来。
-我创建了一个组织
-
- [aRealTester](https://github.com/arealtester)
-
-Enjoy!
-
-    学习，难道不是人生最棒的乐趣么？
 
 ## 协议/License :copyright:
 
