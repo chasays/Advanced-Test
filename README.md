@@ -27,47 +27,39 @@
 ## 03_Language  :bicyclist:
 
 ### Python
-- [Python-formart用法.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/03_Language/Python/Python-formart%E7%94%A8%E6%B3%95.md)
-- 
-Note: 嗯，学习Python是一个渐进的过程，不是一蹴而就的，不要一口吃成一个大胖子。对于市面上很多教材，像什么10天学会Python、学会英语一样一个道理，这就是一个噱头，其实都是教你一个怎么入门的一个过程或者一个学习的方法，其实自己要掌握更深的，跟广的东西去精通，那还是要通过自己去反复的练习。我说这里推荐两个资料。
+
+学习Python是一个渐进的过程，不是一蹴而就的，不要一口吃成一个大胖子。对于市面上很多教材，像什么10天学会Python、学会英语一样一个道理，这就是一个噱头，其实都是教你一个怎么入门的一个过程或者一个学习的方法，其实自己要掌握更深的，跟广的东西去精通，那还是要`通过自己去反复的练习`。我说这里推荐两个资料。
 1. 我建议先看[「简明Python」](https://learnku.com/docs/byte-of-python/2018)
 2. 完了可以跟着这个repo-[「show-me-the-code」](https://github.com/Yixiaohan/show-me-the-code)一起学习
 
 
 ### Java
-首先说一下为什么要学习Java？Java工程师也是市场需求最大的软件工程师，主要是针对一线大厂BATTH，需要Java开发技能，所以学会Java也是非常关键的。目前我的Java技能也是很表面的一些东西，这里就推荐我正在学习的，我正在看了一些教程和一些资料。学习方法不是很多为主，主要是找到一个方法，然后坚持下去。也是推荐2个课程
+
+`首先说一下为什么要学习Java`？Java工程师也是市场需求最大的软件工程师，主要是针对一线大厂BATTH，需要Java开发技能，所以学会Java也是非常关键的。目前我的Java技能也是很表面的一些东西，这里就推荐我正在学习的，我正在看了一些教程和一些资料。学习方法不是很多为主，主要是找到一个方法，然后坚持下去。也是推荐2个课程
+
 1. [这是专门针对小白的零基础Java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 2. [互联网 Java 工程师进阶知识完全扫盲](https://doocs.github.io/advanced-java/#/)
 
 ### Linux 
-作为计算机行业，这个是必要技能。其他系统是一个小玩具，那么Linux绝对是一个挖掘机。
 
-- [Linux常用命令01 cd.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A401%20-%20cd.md)
+作为计算机行业，`这个是必要技能`。如果说Windows系统是一个小玩具，那么Linux`绝对`是一个挖掘机。应该有人反对，毕竟Linux打游戏还是比不过Windows的。
 
-- [Linux常用命令02 mv.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A402%20-%20mv.md)
-
-- [Linux常用命令03 grep.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A403%20-%20grep.md)
-
-- [Linux常用命令04 ls.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A404%20-%20ls.md)
-- [Linux常用命令05 文本追加到文件中.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A405%20-%20%E6%96%87%E6%9C%AC%E8%BF%BD%E5%8A%A0%E5%88%B0%E6%96%87%E4%BB%B6%E4%B8%AD.md)
-- [Linux常用命令06 ps.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A406%20-%20ps.md)
-- [Linux常用命令07 rm.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A407%20-%20rm.md)
-- [Linux常用命令08 curl.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A408%20-%20curl.md)
-- [Linux常用命令09 sed.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A409%20-%20sed.md)
-- [Linux常用命令10 unzip.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A410%20-%20unzip.md)
-- [Linux常用命令11 xargs.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A411%20-%20xargs.md)
-- [Linux常用命令12 vi.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A412%20-%20vi.md)
-- [Linux常用命令13 echo.md](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/01_Linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A413%20-%20echo.md)
+重点推荐2个教程，
+- [Runoob的Linux基础](https://www.runoob.com/linux/linux-tutorial.html)
+学完上面这个，基本上对于Linux命令来说就没有太大的问题，主要就是应用。这个就是在工作和实战过程中去实际操练，以后就能慢慢的信手拈来。
+- [Linux 13个常用命令](https://github.com/chasays/Advanced-Test/tree/master/06_Attachments/01_Linux)
 
 ## 04_CI_CD :slot_machine:
 - [01_什么是CICD.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/04_CI/CD/01_%E4%BB%80%E4%B9%88%E6%98%AFCICD.md)   
-## 05_Others
+
+## 05_Others :heavy_plus_sign:
 - [01_博客.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/05_Others/01_%E5%8D%9A%E5%AE%A2.md)
 - [02_测试书籍.md](https://github.com/rikiesxiao/Advanced-Test/blob/master/05_Others/02_%E6%B5%8B%E8%AF%95%E4%B9%A6%E7%B1%8D.md)
 
+- [什么是Docker](https://github.com/chasays/Advanced-Test/blob/master/06_Attachments/02_Docker/Docker%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%A5%BD%E5%A4%84.md)
 ## GitBook 链接  :end:
 
-# todo
+#todo
 
 
 ## 协议/License :copyright:
